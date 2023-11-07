@@ -2,7 +2,7 @@ from nanoleafapi import Nanoleaf, RED, ORANGE, YELLOW, GREEN, LIGHT_BLUE, BLUE, 
 import requests
 
 #initialize nanoleaf var
-nl = Nanoleaf("192.168.0.90")
+nl = Nanoleaf("insert ip")
 
 currentColor = "temp"
 
